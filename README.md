@@ -1,2 +1,2 @@
 # myproject
-For telnet client-server
+For ITT440 Individual Assignment
